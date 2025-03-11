@@ -1,0 +1,16 @@
+{
+    "version": 2,
+    "name": "space-tourism-website",
+    "builds": [
+      { 
+        "src": "starter-code/**", 
+        "use": "@vercel/static" 
+      }
+    ],
+    "routes": [
+      { 
+        "src": "/(.*)", 
+        "dest": "/starter-code/$1" 
+      }
+    ]
+  }
