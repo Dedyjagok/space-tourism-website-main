@@ -68,7 +68,7 @@ The development followed a mobile-first approach with progressive enhancement:
 
 ## Preview
 
-You can see the live version of the site at: [Space Tourism Website](https://your-live-site-url.com)
+You can see the live version of the site at: [Space Tourism Website](https://space-tourism-website-main-smoky.vercel.app/)
 
 ---
 
