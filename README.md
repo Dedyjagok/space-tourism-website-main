@@ -80,6 +80,8 @@ You can see the live version of the site at: [Space Tourism Website](https://spa
 
    cd space-tourism-website
 
+   code .
+
 ## Continued Development
 
 In future projects, I want to focus on:
